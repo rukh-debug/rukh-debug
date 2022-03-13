@@ -8,9 +8,9 @@
 
 
 ### What am I up to?
-[![Currently Working On](http://ec2-54-144-141-239.compute-1.amazonaws.com:9999/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension) vps down :(
+[![Currently Working On](http://ec2-3-86-215-44.compute-1.amazonaws.com:9999/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension) 
 <br />
-<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence) / VIM plugin coming soon...</em> 
+<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence) 
 <br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
