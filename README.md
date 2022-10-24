@@ -4,10 +4,8 @@ I am a backend dev actively developing webs and also a learner who is passively 
 
 **Current Status:**
 
-- 🥷 Staying IDLE professionally.
+- 🥷 DevOps trainee @ InnovateTech.
 - 📖 Learning **Android app development** with **Flutter** along with **andorid app security testing**.
-- 🔭 Looking for Junior **DevOps** role or **DevSecOps** Internship.
-
 
 **Github Stats:**
 
