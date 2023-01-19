@@ -18,9 +18,9 @@ I am a backend dev actively developing webs and also a learner who is passively 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)\
 ![Amazon AWS](https://img.shields.io/badge/-AWS-%230066B8?style=flat&logo=amazon-aws)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%230066B8?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230066B8?style=flat&logo=typescript&color=%23ECD83E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![Python](https://img.shields.io/badge/-Python-%230066B8?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-%230066B8?style=flat&logo=python&logoColor=%23ECD83E)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=react)
