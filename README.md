@@ -25,5 +25,6 @@ I am a backend dev actively developing webs and also a learner who is passively 
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-AWS-%230066B8?style=flat&logo=amazon-aws)
-
+![Amazon AWS](https://img.shields.io/badge/-AWS-%230066B8?style=flat&logo=amazon-aws)
+![Arch Linux](https://img.shields.io/badge/-Arch-%230066B8?style=flat&logo=arch-linux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230066B8?style=flat&logo=typescript)
