@@ -18,10 +18,10 @@ I am a backend dev actively developing webs and also a learner who is passively 
 **Languages and Tools**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232A?style=flat&logo=typescript&color=ffffff)
-![Python](https://img.shields.io/badge/-Python-%2320232A?style=flat&logo=python&color=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232A?style=flat&logo=typescript&logoColor=ffffff&color=3178c6)
+![Python](https://img.shields.io/badge/-Python-%2320232A?style=flat&logo=python&color=3776ab&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000&color=ea4800)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)\
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
