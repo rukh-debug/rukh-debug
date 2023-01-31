@@ -5,7 +5,8 @@ I am a backend dev actively developing webs and also a learner who is passively 
 **Current Status:**
 
 - 🥷 DevOps/WebDev @ Dharahara Tech.
-- 📖 Learning **Rust** with and also picking up **gtk-rs** while doing so.
+- 📖 Learning **Rust** and also picking up **gtk-rs** while doing so.
+- 🖊️ Feeling bored, might write blog at https://rubenk.com.np idk.
 
 **Github Stats:**
 
