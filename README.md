@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-I am a backend dev actively developing webs and also a learner who is passively learning different field of tech. I am willing to switch into numerous roles (DevSecOps, Security Researcher, Android Developer) when the time is appropriate.
+I am a backend dev actively developing webs and also a learner who is passively learning different field of tech. I am willing to switch into numerous roles (DevSecOps, Security Researcher, Sys Developer) when the time is appropriate.
 
 **Current Status:**
 
-- 🥷 DevOps trainee @ InnovateTech.
-- 📖 Learning **Android app development** with **Flutter** along with **andorid app security testing**.
+- 🥷 DevOps/WebDev @ Dharahara Tech.
+- 📖 Learning **Rust** with and also picking up **gtk-rs** while doing so.
 
 **Github Stats:**
 
