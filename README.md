@@ -32,3 +32,4 @@ I am a backend dev actively developing webs and also a learner who is passively 
 ![Arch Linux](https://img.shields.io/badge/-Arch-%230066B8?style=flat&logo=arch-linux&logoColor=ffffff)\
 ![Docker](https://img.shields.io/badge/-Docker-%230066B8?style=flat&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%230066B8?style=flat&logo=Kubernetes&logoColor=ffffff)
+![Github Actions](https://img.shields.io/badge/-Actions-%230066B8?style=flat&logo=github-actions&logoColor=ffffff)
