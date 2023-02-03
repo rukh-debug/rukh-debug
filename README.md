@@ -28,7 +28,7 @@ I am a backend dev actively developing webs and also a learner who is passively 
 ![React](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-%230066B8?style=flat&logo=amazon-aws&color=eb7a23)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-Code-%230066B8?style=flat&logo=visual-studio-code)
 ![Arch Linux](https://img.shields.io/badge/-Arch-%230066B8?style=flat&logo=arch-linux&logoColor=ffffff)\
 ![Docker](https://img.shields.io/badge/-Docker-%230066B8?style=flat&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%230066B8?style=flat&logo=Kubernetes&logoColor=ffffff)
