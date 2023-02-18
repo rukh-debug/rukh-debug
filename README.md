@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://i.imgur.com/SfXryEa.gif" alt="hy_gif"/>
 
 I am a backend dev actively developing webs and also a learner who is passively learning different field of tech. I am willing to switch into numerous roles (DevSecOps, Security Researcher, Sys Developer) when the time is appropriate.
 
