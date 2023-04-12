@@ -1,6 +1,6 @@
 ### Hello there <img width="3%" height="3%" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="hy_gif"/>
 
-I am a backend dev actively developing webs and also a learner who is passively learning different field of tech. I am willing to switch into numerous roles (DevSecOps, Security Researcher, Sys Developer) when the time is appropriate.
+I am a versatile **backend developer** with experience in building robust web systems. Along with my active development work, I am a curious learner exploring various areas of technology. I aspire to transition into roles like **DevSecOps** and **web/systems development** to broaden my skill set and contribute to innovative projects.
 
 **Current Status:**
 
