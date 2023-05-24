@@ -10,7 +10,6 @@ I am a versatile **backend developer** with experience in building robust web sy
 **Live VScode Status:**
 
 <img src="https://vstatus.rubenk.com.np" />
-<br/>
 
 **Github Stats:**
 
