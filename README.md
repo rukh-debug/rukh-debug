@@ -4,7 +4,7 @@ I am a versatile **backend developer** with experience in building robust web sy
 
 **Current Status:**
 
-- 📖 Learning **Rust** and also picking up **gtk-rs** while doing so.
+- 📖 Learning **Rust**  & **goLang** and also picking up **gtk-rs** while doing so.
 - 🖊️ Feeling bored, might write blog at https://rubenk.com.np idk.
 
 **Live VScode Status:**
