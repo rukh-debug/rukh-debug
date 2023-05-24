@@ -8,8 +8,8 @@ I am a versatile **backend developer** with experience in building robust web sy
 - 🖊️ Feeling bored, might write blog at https://rubenk.com.np idk.
 
 **Live VScode Status:**
-
-[![Live feed](https://vstatus.rubenk.com.np/?npn)](https://vstatus.rubenk.com.np/?npn)
+<!-- https://github.com/slithery0/vstatus -->
+[![Live feed](https://vstatus.rubenk.com.np/?npn)](https://github.com/slithery0/vstatus)
 
 **Github Stats:**
 
