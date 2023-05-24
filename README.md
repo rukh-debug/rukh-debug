@@ -7,6 +7,11 @@ I am a versatile **backend developer** with experience in building robust web sy
 - 📖 Learning **Rust** and also picking up **gtk-rs** while doing so.
 - 🖊️ Feeling bored, might write blog at https://rubenk.com.np idk.
 
+**Live VScode Status:**
+
+<img src="https://vstatus.rubenk.com.np" />
+<br/>
+
 **Github Stats:**
 
 <img  align="left" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slithery0&&count_private=true&show_icons=true&bg_color=0D1117&title_color=fff&text_color=929292&icon_color=F1E05A&hide_border=true" alt="slethery0" />
