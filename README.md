@@ -9,7 +9,10 @@ I am a versatile **backend developer** with experience in building robust web sy
 
 **Live VScode Status:**
 <!-- https://github.com/slithery0/vstatus -->
-[![Live feed](https://vstatus.vercel.app/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
+[![Live feed](https://vstatus.rubenk.com.np/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
+
+[![for test](http://localhost:3000/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
+
 
 **Github Stats:**
 
