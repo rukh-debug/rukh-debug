@@ -11,6 +11,8 @@ I am a versatile **backend developer** with experience in building robust web sy
 <!-- https://github.com/slithery0/vstatus -->
 [![Live feed](https://vstatus.rubenk.com.np/?npn)](https://github.com/slithery0/vstatus)
 
+[![Live feed](https://vstatus.vercel.app/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
+
 **Github Stats:**
 
 <img  align="left" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slithery0&&count_private=true&show_icons=true&bg_color=0D1117&title_color=fff&text_color=929292&icon_color=F1E05A&hide_border=true" alt="slethery0" />
