@@ -1,8 +1,8 @@
 ### Hello there <img width="3%" height="3%" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="hy_gif"/>
 
-<!-- I am a versatile **backend developer** with experience in building robust web systems. Along with my active development work, I am a curious learner exploring various areas of technology. I aspire to transition into roles like **DevSecOps** and **web/systems development** to broaden my skill set and contribute to innovative projects. -->
+I am a versatile **backend developer** with experience in building robust web systems. Along with my active development work, I am a curious learner exploring various areas of technology. I aspire to transition into roles like **DevSecOps** and **web/systems development** to broaden my skill set and contribute to innovative projects.
 
-Imposter syndrom hits you so hard sometimes, and the Intro where "I am a versatile **backend developer**..." be liek "am i?" again, over confidence hits the same, now its "fuck ya i am". thats all, that's all i revolve around... 
+<!-- Imposter syndrom hits you so hard sometimes, and the Intro where "I am a versatile **backend developer**..." be liek "am i?" again, over confidence hits the same, now its "fuck ya i am". thats all, that's all i revolve around...  -->
 
 **Current Status:**
 
@@ -15,7 +15,7 @@ Imposter syndrom hits you so hard sometimes, and the Intro where "I am a versati
 
 **Github Stats:**
 
-<img  align="left" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slithery0&&count_private=true&show_icons=true&bg_color=0D1117&title_color=fff&text_color=929292&icon_color=F1E05A&hide_border=true" alt="slethery0" />
+<img  align="left" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slithery0&&count_private=true&show_icons=true&bg_color=0D1117&title_color=fff&text_color=929292&icon_color=F1E05A&hide_border=true" alt="slithery0" />
 
 <img width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=slithery0&layout=compact&bg_color=0D1117&title_color=fff&text_color=929292&hide_border=true" />
 <br/>
