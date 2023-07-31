@@ -2,8 +2,6 @@
 
 I am a versatile **backend developer** with experience in building robust web systems. Along with my active development work, I am a curious learner exploring various areas of technology. I aspire to transition into roles like **DevSecOps** and **web/systems development** to broaden my skill set and contribute to innovative projects.
 
-<!-- Imposter syndrom hits you so hard sometimes, and the Intro where "I am a versatile **backend developer**..." be liek "am i?" again, over confidence hits the same, now its "fuck ya i am". thats all, that's all i revolve around...  -->
-
 **Current Status:**
 
 - 📖 Learning **Rust**  & **goLang** and also picking up **gtk-rs** while doing so.
