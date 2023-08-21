@@ -2,7 +2,7 @@
 
 I am a versatile **backend developer** with experience in building robust web systems. Along with my active development work, I am a curious learner exploring various areas of technology. I aspire to transition into roles like **DevSecOps** and **web/systems development** to broaden my skill set and contribute to innovative projects.
 
-**Status:**
+**vstatus:**
 <!-- https://github.com/slithery0/vstatus -->
 [![Live feed](https://vstatus.rubenk.com.np/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
 
